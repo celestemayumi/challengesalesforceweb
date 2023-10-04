@@ -9,6 +9,7 @@
     margin-left: 0.5em;
     color: rgb(255, 255, 255);
     font-size: 2.5em;
+    padding: 0.5em;
 }
 
 .header a{
@@ -25,11 +26,14 @@ nav {
 .nav-bar li a {
     text-decoration: none;
     color: #022d5f;
+    padding: 0.7em 2.1em;
+    
 }
 
 .nav-bar li{
     margin:0.1em 1em;
     font-size: 1.5em;
+
 }
 
 .nav-bar ul {
