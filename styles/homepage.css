@@ -44,7 +44,29 @@ nav {
     padding: 0px;
 }
 
-section {
+/* Estilo do conteudo e footer */
+
+.solution {
     margin-left: 1em ;
     font-size: 1.5em;
 }
+
+footer {
+    background-color: #c2c2c2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: auto;     
+}
+
+footer ul {
+    list-style: none;
+}
+
+footer li a {
+    text-decoration: none;
+    color: #022d5f;
+    padding: 0.7em 2.1em;
+    font-size: 1.3em;
+}
+

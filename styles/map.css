@@ -1,0 +1,15 @@
+.nav-map{
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-start;
+    margin: 0;
+}
+dl {
+    margin: 2em;
+    font-size: 1.4em;
+}
+
+dt a{
+    text-decoration: none;
+    color:#022d5f;
+}
